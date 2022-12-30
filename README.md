@@ -74,7 +74,7 @@ npm run test
 
 ## Walk Through Video
 
-* [Drive Link]()
+* [Drive Link](https://drive.google.com/file/d/1l_cOuFXPKpJMREUIax2ZweEoYpqFOQmH/view)
 
 ## References
 
