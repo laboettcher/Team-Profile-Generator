@@ -74,4 +74,20 @@ npm run test
 
 ## Walk Through Video
 
+* [Drive Link]()
+
 ## References
+
+* [Stack Overflow](https://stackoverflow.com/questions/37975500/npm-install-doesnt-create-dist-folder)
+
+* [Stack Overflow](https://stackoverflow.com/questions/51216276/running-node-index-js-does-nothing)
+
+* [Inquirer](https://www.npmjs.com/package//inquirer)
+
+* [Tabnine](https://www.tabnine.com/code/javascript/functions/fs/writeFileAsync)
+
+* [Tabnine](https://www.tabnine.com/code/javascript/functions/toBe)
+
+* [Blog](https://bobbyhadz.com/blog/npm-missing-script-test)
+
+* [Jest](https://jestjs.io/docs/expect#tobevalue)
