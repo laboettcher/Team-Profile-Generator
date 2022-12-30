@@ -21,6 +21,8 @@ Your challenge is to build a Node.js command-line application that takes in info
 
 * [WalkThroughVideo](#walk-through-video)
 
+* [GitHub](#github)
+
 * [References](#references)
 
 ## User Story
@@ -75,6 +77,12 @@ npm run test
 ## Walk Through Video
 
 * [Drive Link](https://drive.google.com/file/d/1l_cOuFXPKpJMREUIax2ZweEoYpqFOQmH/view)
+
+## GitHub
+
+* [Page](https://github.com/laboettcher/Team-Profile-Generator)
+
+* [laboettcher Profile](https://github.com/laboettcher)
 
 ## References
 
